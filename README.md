@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shazam1910
+- 👋 Hi, I’m Shashank Pratheepkumar
 - 👀 I’m interested in Web development and Ai
 - 🌱 I’m currently learning MERN Tech Stack
 - 💞️ I’m looking to collaborate on Full stack projects and Ai projects
