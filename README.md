@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Pratheepkumar
 - 👀 I’m interested in Web development and Ai
-- 🌱 I’m currently learning MERN Tech Stack
+- 🌱 I’m currently learning MEAN Tech Stack
 - 💞️ I’m looking to collaborate on Full stack projects and Ai projects
 - 📫 How to reach me- Shashanksanthosh19@gmail.com
 - 😄 Pronouns: He / Him
